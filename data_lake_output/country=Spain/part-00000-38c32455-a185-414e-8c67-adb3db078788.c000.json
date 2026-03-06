@@ -1,0 +1,3 @@
+{"transaction_id":8,"customer_name":"Pedro Garcia","customer_age":29,"purchase_amount":150.0,"clearance_level":3}
+{"transaction_id":2,"customer_name":"Juan Perez","customer_age":34,"purchase_amount":89.9,"clearance_level":3}
+{"transaction_id":13,"customer_name":"Carlos Sanchez","customer_age":37,"purchase_amount":80.0,"clearance_level":2}
